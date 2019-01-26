@@ -1,80 +1,207 @@
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="UTF-8">
-    <title>Utopic Flowers</title>
-    <meta name="description" content="">
-  </head>
-
-  <body>
-    <!-- site logo & banner -->
-
-    <header id="site logo & banner">
-      <h1>
-        <img src="" alt="">
-        Slogan
-      </h1>
-      
-    </header>
-
-    <!-- vertical menu -->
-
-       <nav id="vertical menu">
-         <ul>
-           <li> <a href="home.html" title="Home"> Home </a></li>
-           <li> <a href="style_Demo.html" title="Style demo"> Style Demo </a></li>
-           <li> <a href="Full_Width.html" title="Full Width"> Full Width </a></li>
-           <li> <a href="Dropdown.htlm" title="Dropdown"> DROPDOWN </a></li>
-           <li> <a href="portfolio.html" title="portfolio"> PORTFOLIO </a></li>
-           <li> <a href="Gallery.html" title="Gallery"> GALLERY </a></li>
-         </ul>
-       </nav> 
-
-
-    <!-- Main content -->
-     
-     <section id="main content">
-       
-       <div class="article1">
-       <div class="article1__title">
-        <img src="" alt="">
-       </div>
-
-       <div class="article1">
-       <div class="article1__title">
-        <img src="" alt="">
-       </div>
-
-       <div class="article1">
-       <div class="article1__title">
-        <img src="" alt="">
-       </div>
-
-
-
-       <img src="" alt="">
-
-
-
-
-
-
-      
-    
-
-     </section>   
-      
-    <!-- Down Page -->
-    
-    <footer id="down_page">
-      <h6>Copyrights</h6>
-    </footer>      
-
-
-       
-      
-
-
-
-  </body>
-</html>
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "homework2(description of site).sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 2738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/work/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "homework2(description of site).sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2707,
+								2707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4464.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homework2(description of site).sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
