@@ -1,24 +1,24 @@
 *{
-  margin: 0;
+  margin: 8px;
   padding: 0;
   box-sizing: border-box;
 }
 html{
   height: 100%;}
- 
 body{
-  color: green;
-   background-color: lightblue;
+  display: block;
+  margin: 8px
 }
-img{
-  max-width: 100%
+[href^="tel:"]{
+  color: inherit;
+  text-decoration: none;
 }
-.cv-photo{
-  width: 200px;
-  border-radius: 90px
+.contacts{
+  display: table;
 }
-.blue-color{
-  color: blue;
+.contact{
+  display: table-row;
 }
-.black-color{color: black;}
-border-radius: 90px;
+.contact__title, .contact__phones{
+  display: table-cell;
+}
