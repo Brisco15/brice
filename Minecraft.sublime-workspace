@@ -1,1 +1,256 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"uk\">\n<head>\n  \n  <title>base</title>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width\">\n  <link rel=\"stylesheet\"\n   type=\"text/css\" \n   href=\"css/styles.css\">\n</head>\n<body>\n  <a href=\"#\" class=\"logo\">\n    <img src=\"img/logo.png\" alt=\"logo\">\n  </a>\n  <div class=\"contacts\">\n    <div class=\"contact\">\n     <div class=\"contact_title\">\n      Админ:\n     </div>\n    <div class=\"contact_phones\">\n      <ul>\n        <li>\n         <a href=\"tel:+38068333210\">+38(068)333-22-10\n         </a>\n        </li>\n        <li>\n          <a href=\"tel:+380997505050\">\n            +38(099)750-50-50\n          </a>\n         </li>\n      </ul>\n      <div class=\"contact_title\">\n    По донату:\n     </div>\n    <div class=\"contact_phones\">\n      <ul>\n        <li>\n        <a href=\"tel:+380673322180\">+38067-33-22-180\n         </a>\n        </li>\n    <div class=\"contact_title\">\n      Скайп:\n     </div>\n    <div class=\"contact_skype\">\n      <ul>\n        <li>\n         <a href=\"skype:minecraft-km7\">minecraft-km7\n         </a>\n        </li>\n      </ul>  \n    </div>   \n    </div>\n  </div>\n  <div class=\"servers\">\n     <div class=\"servers_name\">\n      <div class=\"servers_location\"> \n     </div>\n   </div>\n</div>   \n   <nav class=\"servers-nav\">\n     <ul>\n       <li>\n         <a href=\"#\">Вібрати Сервер</a>\n       </li>\n       <li>\n         <a href=\"#\">Случайні</a>\n         \n       </li>\n     </ul>\n   </nav>\n<a href=\"#\" class=\"logo2\">\n    <img src=\"img/logo2.png\" alt=\"logo2\">\n  </a>  \n  <!-- Main heading -->\n<h1>\n<div class=\"main-heading\">\n  <div class=\"content\">\n   <img src=\"img/content.png\" alt=\"img\"> \n   <p>minecraft-opoiijjghvhvhdhgdhsgdhhgshhghggshhbdsbdnnsbdhsbhshshbhsbhsbchbshbsbxbcxbcbdhcbhbhsbchcbchhhhhdhsvhvhdh vhd hd v</p>\n  </div>\n</div>\n\n</h1>\n<h2>\n  <div=\"sub-heading\"></div>\n  <div class=\"saves\">\n    <div class=\"saves_date\">2016-08-04</div>\n    <p>Страж подводной ітд</p>\n    <a href=\"#\" class=\"saves_img\">\n      <img src=\"img/saves_img.png\" alt=\"saves_img1\">\n    </a>\n  </div>\n  <div class=\"saves\">\n    <div class=\"saves_date\">2016-06-27</div>\n    <p>Встречайте шггшгшшш</p>\n    <a href=\"#\" class=\"saves_img\">\n      <img src=\"img/saves_img.png\" alt=\"saves_img2\">\n    </a>\n  </div>\n  <div class=\"saves\">\n    <div class=\"saves_date\">2016-04-17</div>\n    <p>В мобільной ооророгщш</p>\n    <a href=\"#\" class=\"saves_img\">\n      <img src=\"img/saves_img.png\" alt=\"saves_img3\">\n    </a>\n  </div>\n</h2>\n<!-- Lateral content -->\n\n<h3>\n  <nav class=\"Lateral-nav\">\n     <ul>\n       <li>\n         <a href=\"#\" class=\"button_name\">Мир Minecraft</a>\n         <nav class=\"button-nav\">\n          <ul>\n            <li>\n              <a href=\"#\">Блоки</a>\n            </li>\n          </ul>\n          <ul>\n            <li>\n              <a href=\"#\">Мобі</a>\n            </li>\n          </ul>\n          <ul>\n            <li>\n              <a href=\"#\">Структурі</a>\n            </li>\n          </ul>\n          <ul>\n            <li>\n              <a href=\"#\">Биомбі</a>\n            </li>\n          </ul>\n          <ul>\n            <li>\n              <a href=\"#\">Мирі</a>\n            </li>\n          </ul>\n         </nav>\n       </li>\n       <li>\n         <a href=\"#\" class=\"button_name\">Industrial craft</a>\n         \n       </li>\n       <li>\n         <a href=\"#\" class=\"button_name\">OptiFine</a>\n       </li>\n     </ul>\n     <ul>\n       <li>\n         <a href=\"#\" class=\"button_name\">Forge</a>\n       </li>\n       <li>\n         <a href=\"#\" class=\"button_name\">TooManyItems</a>\n         \n       </li>\n       <li>\n         <a href=\"#\" class=\"button_name\">RailCraft</a>\n       </li>\n     </ul>\n   </nav>\n</h3>\n\n<!-- Footer -->\n<div class=\"ad\">\nПодключай и играй на наших серверах!\n</div>\n <div class=\"contacts\">\n    <div class=\"contact\">\n     <div class=\"contact_title\">\n      Админ:\n     </div>\n    <div class=\"contact_phones\">\n      <ul>\n        <li>\n         <a href=\"tel:+38068333210\">+38(068)333-22-10\n         </a>\n        </li>\n        <li>\n          <a href=\"tel:+380997505050\">\n            +38(099)750-50-50\n          </a>\n         </li>\n      </ul>\n      <div class=\"contact_title\">\n    По донату:\n     </div>\n    <div class=\"contact_phones\">\n      <ul>\n      <li>\n         <a href=\"tel:+380673322180\">+38067-33-22-180\n         </a>\n        </li>\n\n\n\n\n\n  \n</body>\n</html>\n    \n  ",
+			"file": "minecraft.html",
+			"file_size": 4685,
+			"file_write_time": 131931220467420120,
+			"settings":
+			{
+				"buffer_size": 4313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 309,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work/base/www/css"
+	],
+	"file_history":
+	[
+		"/D/work/base/www/Minecraft.sublime-workspace",
+		"/D/work/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "minecraft.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1389,
+								1389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Minecraft.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
