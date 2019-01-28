@@ -12,7 +12,7 @@
 	"buffers":
 	[
 		{
-			"file": "minecraft.html",
+			"file": "/D/work/base/www/minecraft.html",
 			"settings":
 			{
 				"buffer_size": 4313,
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"file": "css/styles.css",
+			"file": "/D/work/base/www/css/styles.css",
 			"settings":
 			{
 				"buffer_size": 309,
@@ -103,7 +103,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "minecraft.html",
+					"file": "/D/work/base/www/minecraft.html",
 					"semi_transient": false,
 					"settings":
 					{
@@ -133,7 +133,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/styles.css",
+					"file": "/D/work/base/www/css/styles.css",
 					"semi_transient": false,
 					"settings":
 					{
@@ -200,7 +200,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Minecraft.sublime-project",
+	"project": "minecraf.sublime-project",
 	"replace":
 	{
 		"height": 78.0
